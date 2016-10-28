@@ -9,8 +9,6 @@ namespace CustomerManagement
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
-
-
         }
     }
 }
